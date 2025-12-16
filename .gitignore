@@ -1,0 +1,11 @@
+# Ignorer le fichier Notes.txt
+Notes.txt
+
+# Ignorer les fichiers temporaires de l’éditeur (VS Code, etc.)
+.vscode/
+*.swp
+*.tmp
+
+# Ignorer les fichiers Python compilés (si jamais)
+__pycache__/
+*.pyc

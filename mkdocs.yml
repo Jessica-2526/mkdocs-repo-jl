@@ -1,0 +1,6 @@
+site_name: MkDocs
+
+
+nav:
+  - Home: index.md
+  - test: test.md
