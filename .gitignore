@@ -9,3 +9,4 @@ Notes.txt
 # Ignorer les fichiers Python compilés (si jamais)
 __pycache__/
 *.pyc
+site/
